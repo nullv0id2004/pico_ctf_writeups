@@ -8,7 +8,8 @@ I've hidden a flag in this file. Can you find it? [Forensics is fun.pptm](https:
 2) I know that pptm files are basically zip files so i can extract it.
 3) I extracted in a folder called fun.
 4) Then through cmd I listed all files recursively
-	- ls Fun -alR
+
+		ls Fun -alR
 ![](/Forensics/Macrohard_WeakEdge/MacroHard_WeakEdge_resources/img.png)
 
 
