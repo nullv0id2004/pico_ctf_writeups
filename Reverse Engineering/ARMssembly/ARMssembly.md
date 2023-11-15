@@ -71,7 +71,7 @@ main:
 3) I converted `1830628817` to hex using python in cmd
 
         hex(1830628817)
-![](./ARMssenbly%20resources/arm1.png)
+![](./ARMssenbly-resources/arm1.png)
 
 4) I got `0x6d1d2dd1` as answer in which I have to omit `0x` and submit it as flag.
 
