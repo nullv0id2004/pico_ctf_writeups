@@ -10,7 +10,8 @@ I've hidden a flag in this file. Can you find it? [Forensics is fun.pptm](https:
 4) Then through cmd I listed all files recursively
 
 		ls Fun -alR
-![](/Forensics/Macrohard_WeakEdge/MacroHard_WeakEdge_resources/img.png)
+		
+![](./MacroHard_WeakEdge_resources/img.png)
 
 
 5) Then inspected the library and found that there is a file called hidden, So i concatted that file and got a random sequence of letters which looked like a cypher.
